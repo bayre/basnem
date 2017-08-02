@@ -260,26 +260,588 @@ ST. VICENT AND THE GRENADINES,Caribbean and Central America
 ST. KITTS AND NEVIS,Caribbean and Central America
 CONGO DEMOCRATIC REPUBLIC OF THE,Sub-Saharan Africa
 SYRIAN ARAB REPUBLIC,Middle East and North Africa
-VENEZUELA,South America
-COSTA RICA,Caribbean and Central America
 ZFPE COLOMBINA DEL CAUCA,South America
 ZFP LOGISTICAL CENTER OF PACIFIC CELPA,South America
 ZF CENCAUCA PARQUE INDL CALOTO,South America
 FREE ZONE CARTAGENA,South America
 FREE ZONE LAS AMERICAS,South America
-NEW ZEALAND,Oceania
-DOMINICA,Caribbean and Central America
 NETHERLANDS ANTILLES,Caribbean and Central America
-HAITI,Caribbean and Central America
-CUBA,Caribbean and Central America
-GUATEMALA,Caribbean and Central America
-HONDURAS,Caribbean and Central America
-ECUADOR,South America
 CZECH REPUBLIC,Europe (EU)
-BOLIVIA,South America
-TURKEY,Europe (other)
-UKRAINE,Europe (other)
-CURACAO,Caribbean and Central America
 CONGO,Sub-Saharan Africa
 REP OF GEORGIA,Central and Northern Asia
 UNKNOWN,UNKNOWN
+canada,North America
+germany,Europe (EU)
+iran,Middle East and North Africa
+mozambique,Sub-Saharan Africa
+pakistan,South Asia
+seychelles,Sub-Saharan Africa
+finland,Europe (EU)
+united states,North America
+dominican republic,Caribbean and Central America
+kazakhstan,Central and Northern Asia
+senegal,Sub-Saharan Africa
+india,South Asia
+united arab emirates,Middle East and North Africa
+bahrain,Middle East and North Africa
+chile,South America
+kuwait,Middle East and North Africa
+mexico,North America
+turkey,Europe (other)
+belgium,Europe (EU)
+kyrgyzstan,Central and Northern Asia
+philippines,Southeast Asia
+france,Europe (EU)
+italy,Europe (EU)
+mauritania,Sub-Saharan Africa
+montenegro,Europe (other)
+niger,Sub-Saharan Africa
+saint kitts and nevis,Caribbean and Central America
+serbia,Europe (other)
+"macedonia, fyr",Europe (other)
+greece,Europe (EU)
+cote d'ivoire,Sub-Saharan Africa
+netherlands,Europe (EU)
+switzerland,Europe (other)
+egypt,Middle East and North Africa
+bulgaria,Europe (EU)
+croatia,Europe (EU)
+denmark,Europe (EU)
+new caledonia,Oceania
+burkina faso,Sub-Saharan Africa
+luxembourg,Europe (EU)
+mali,Sub-Saharan Africa
+nicaragua,Caribbean and Central America
+nigeria,Sub-Saharan Africa
+spain,Europe (EU)
+sweden,Europe (EU)
+romania,Europe (EU)
+saudi arabia,Middle East and North Africa
+tunisia,Middle East and North Africa
+uganda,Sub-Saharan Africa
+angola,Sub-Saharan Africa
+austria,Europe (EU)
+"congo, dem. rep.",Sub-Saharan Africa
+gambia,Sub-Saharan Africa
+ghana,Sub-Saharan Africa
+japan,East Asia excluding China
+jordan,Middle East and North Africa
+lebanon,Middle East and North Africa
+libya,Middle East and North Africa
+united kingdom,Europe (EU)
+benin,Sub-Saharan Africa
+"korea, rep.",East Asia excluding China
+malaysia,Southeast Asia
+sri lanka,South Asia
+guinea,Sub-Saharan Africa
+"china, hong kong sar",China
+tonga,Oceania
+samoa,Oceania
+cameroon,Sub-Saharan Africa
+togo,Sub-Saharan Africa
+comoros,Sub-Saharan Africa
+zimbabwe,Sub-Saharan Africa
+zambia,Sub-Saharan Africa
+botswana,Sub-Saharan Africa
+ethiopia,Sub-Saharan Africa
+moldova,Europe (other)
+rwanda,Sub-Saharan Africa
+ireland,Europe (EU)
+russian federation,Central and Northern Asia
+yemen,Middle East and North Africa
+namibia,Sub-Saharan Africa
+"congo, rep.",Sub-Saharan Africa
+sao tome and principe,Sub-Saharan Africa
+south africa,Sub-Saharan Africa
+albania,Europe (other)
+british virgin isds,Caribbean and Central America
+montserrat,Caribbean and Central America
+curacao,Caribbean and Central America
+portugal,Europe (EU)
+saint vincent and the grenadines,Caribbean and Central America
+"areas, nes",Other
+dominica,Caribbean and Central America
+malta,Europe (EU)
+guyana,South America
+saint lucia,Caribbean and Central America
+solomon isds,Oceania
+china,China
+georgia,Central and Northern Asia
+israel,Middle East and North Africa
+belarus,Central and Northern Asia
+iraq,Middle East and North Africa
+thailand,Southeast Asia
+tajikistan,Central and Northern Asia
+turkmenistan,Central and Northern Asia
+afghanistan,South Asia
+algeria,Middle East and North Africa
+andorra,Europe (other)
+azerbaijan,Central and Northern Asia
+argentina,South America
+australia,Oceania
+bahamas,Caribbean and Central America
+bangladesh,South Asia
+armenia,Central and Northern Asia
+barbados,Caribbean and Central America
+bolivia,South America
+bosnia herzegovina,Europe (other)
+brazil,South America
+belize,Caribbean and Central America
+burundi,Sub-Saharan Africa
+cabo verde,Sub-Saharan Africa
+colombia,South America
+costa rica,Caribbean and Central America
+cuba,Caribbean and Central America
+cyprus,Europe (EU)
+czech rep.,Europe (other)
+ecuador,South America
+el salvador,Caribbean and Central America
+equatorial guinea,Sub-Saharan Africa
+estonia,Europe (EU)
+french polynesia,Oceania
+djibouti,Sub-Saharan Africa
+gabon,Sub-Saharan Africa
+state of palestine,Middle East and North Africa
+guatemala,Caribbean and Central America
+haiti,Caribbean and Central America
+honduras,Caribbean and Central America
+hungary,Europe (EU)
+indonesia,Southeast Asia
+jamaica,Caribbean and Central America
+kenya,Sub-Saharan Africa
+latvia,Europe (EU)
+liberia,Sub-Saharan Africa
+lithuania,Europe (EU)
+madagascar,Sub-Saharan Africa
+malawi,Sub-Saharan Africa
+mauritius,Sub-Saharan Africa
+"other asia, nes",East Asia excluding China
+morocco,Middle East and North Africa
+oman,Middle East and North Africa
+nepal,South Asia
+aruba,Caribbean and Central America
+new zealand,Oceania
+norway,Europe (other)
+panama,Caribbean and Central America
+paraguay,South America
+peru,South America
+poland,Europe (EU)
+guinea-bissau,Sub-Saharan Africa
+qatar,Middle East and North Africa
+sierra leone,Sub-Saharan Africa
+singapore,Southeast Asia
+slovakia,Europe (EU)
+vietnam,Southeast Asia
+slovenia,Europe (other)
+suriname,South America
+syria,Middle East and North Africa
+trinidad and tobago,Caribbean and Central America
+ukraine,Central and Northern Asia
+tanzania,Sub-Saharan Africa
+free zones,Other
+uruguay,South America
+venezuela,South America
+cambodia,Southeast Asia
+eritrea,Sub-Saharan Africa
+sudan,Sub-Saharan Africa
+brunei darussalam,Southeast Asia
+iceland,Europe (other)
+maldives,South Asia
+antigua and barbuda,Caribbean and Central America
+"china, macao sar",China
+south sudan,Sub-Saharan Africa
+antarctica,Other
+myanmar,Southeast Asia
+christmas isds,Oceania
+cook isds,Oceania
+fiji,Oceania
+kiribati,Oceania
+guam,Oceania
+"korea, dem. rep.",East Asia excluding China
+lao pdr,Southeast Asia
+mongolia,Central and Northern Asia
+nauru,Oceania
+vanuatu,Oceania
+norfolk isds,Oceania
+n. mariana isds,Oceania
+micronesia,Oceania
+marshall isds,Oceania
+palau,Oceania
+papua new guinea,Oceania
+timor-leste,Southeast Asia
+fmr sudan,Sub-Saharan Africa
+tuvalu,Oceania
+wallis and futuna isds,Oceania
+american samoa,Oceania
+saint helena,Sub-Saharan Africa
+bunkers,Other
+bermuda,Caribbean and Central America
+uzbekistan,Central and Northern Asia
+greenland,North America
+swaziland,Sub-Saharan Africa
+grenada,Caribbean and Central America
+central african rep.,Sub-Saharan Africa
+chad,Sub-Saharan Africa
+mayotte,Sub-Saharan Africa
+lesotho,Sub-Saharan Africa
+faeroe isds,Europe (other)
+saint pierre and miquelon,North America
+french southern territories,Other
+bonaire,Caribbean and Central America
+anguilla,Caribbean and Central America
+san marino,Europe (other)
+holy see,Europe (other)
+sint maarten (dutch part),Caribbean and Central America
+"other africa, nes",Sub-Saharan Africa
+cayman isds,Caribbean and Central America
+turks and caicos isds,Caribbean and Central America
+special categories,Other
+falkland isds (malvinas),South America
+united states minor outlying isds,Oceania
+somalia,Sub-Saharan Africa
+"oceania, nes",Oceania
+"other europe, nes",Europe (other)
+bhutan,South Asia
+heard island and mcdonald isds,Other
+niue,Oceania
+saint-barthelemy,Caribbean and Central America
+gibraltar,Europe (other)
+"latin american integration association, nes",South America
+pitcairn,Oceania
+british indian ocean territory,Oceania
+tokelau,Oceania
+bouvet island,Oceania
+cocos isds,Oceania
+south georgia and the south sandwich isds,Other
+puerto rico,North America
+u.s.,North America
+south korea republic of,East Asia excluding China
+curazao,Caribbean and Central America
+free zone biocombustible dl caribbean,South America
+free zone barranquilla,South America
+hong kong,China
+san martin (dutch),Caribbean and Central America
+russia,Central and Northern Asia
+south korea,East Asia excluding China
+taiwan,East Asia excluding China
+turks and caicos islands,Caribbean and Central America
+cape verde,Middle East and North Africa
+dominica island,Caribbean and Central America
+st. vicent and the grenadines,Caribbean and Central America
+st. kitts and nevis,Caribbean and Central America
+congo democratic republic of the,Sub-Saharan Africa
+syrian arab republic,Middle East and North Africa
+zfpe colombina del cauca,South America
+zfp logistical center of pacific celpa,South America
+zf cencauca parque indl caloto,South America
+free zone cartagena,South America
+free zone las americas,South America
+netherlands antilles,Caribbean and Central America
+czech republic,Europe (EU)
+congo,Sub-Saharan Africa
+rep of georgia,Central and Northern Asia
+unknown,UNKNOWN
+Canada,North America
+Germany,Europe (EU)
+Iran,Middle East and North Africa
+Mozambique,Sub-Saharan Africa
+Pakistan,South Asia
+Seychelles,Sub-Saharan Africa
+Finland,Europe (EU)
+United States,North America
+Dominican Republic,Caribbean and Central America
+Kazakhstan,Central and Northern Asia
+Senegal,Sub-Saharan Africa
+India,South Asia
+United Arab Emirates,Middle East and North Africa
+Bahrain,Middle East and North Africa
+Chile,South America
+Kuwait,Middle East and North Africa
+Mexico,North America
+Turkey,Europe (other)
+Belgium,Europe (EU)
+Kyrgyzstan,Central and Northern Asia
+Philippines,Southeast Asia
+France,Europe (EU)
+Italy,Europe (EU)
+Mauritania,Sub-Saharan Africa
+Montenegro,Europe (other)
+Niger,Sub-Saharan Africa
+Saint Kitts And Nevis,Caribbean and Central America
+Serbia,Europe (other)
+"Macedonia, Fyr",Europe (other)
+Greece,Europe (EU)
+Cote D'Ivoire,Sub-Saharan Africa
+Netherlands,Europe (EU)
+Switzerland,Europe (other)
+Egypt,Middle East and North Africa
+Bulgaria,Europe (EU)
+Croatia,Europe (EU)
+Denmark,Europe (EU)
+New Caledonia,Oceania
+Burkina Faso,Sub-Saharan Africa
+Luxembourg,Europe (EU)
+Mali,Sub-Saharan Africa
+Nicaragua,Caribbean and Central America
+Nigeria,Sub-Saharan Africa
+Spain,Europe (EU)
+Sweden,Europe (EU)
+Romania,Europe (EU)
+Saudi Arabia,Middle East and North Africa
+Tunisia,Middle East and North Africa
+Uganda,Sub-Saharan Africa
+Angola,Sub-Saharan Africa
+Austria,Europe (EU)
+"Congo, Dem. Rep.",Sub-Saharan Africa
+Gambia,Sub-Saharan Africa
+Ghana,Sub-Saharan Africa
+Japan,East Asia excluding China
+Jordan,Middle East and North Africa
+Lebanon,Middle East and North Africa
+Libya,Middle East and North Africa
+United Kingdom,Europe (EU)
+Benin,Sub-Saharan Africa
+"Korea, Rep.",East Asia excluding China
+Malaysia,Southeast Asia
+Sri Lanka,South Asia
+Guinea,Sub-Saharan Africa
+"China, Hong Kong Sar",China
+Tonga,Oceania
+Samoa,Oceania
+Cameroon,Sub-Saharan Africa
+Togo,Sub-Saharan Africa
+Comoros,Sub-Saharan Africa
+Zimbabwe,Sub-Saharan Africa
+Zambia,Sub-Saharan Africa
+Botswana,Sub-Saharan Africa
+Ethiopia,Sub-Saharan Africa
+Moldova,Europe (other)
+Rwanda,Sub-Saharan Africa
+Ireland,Europe (EU)
+Russian Federation,Central and Northern Asia
+Yemen,Middle East and North Africa
+Namibia,Sub-Saharan Africa
+"Congo, Rep.",Sub-Saharan Africa
+Sao Tome And Principe,Sub-Saharan Africa
+South Africa,Sub-Saharan Africa
+Albania,Europe (other)
+British Virgin Isds,Caribbean and Central America
+Montserrat,Caribbean and Central America
+Curacao,Caribbean and Central America
+Portugal,Europe (EU)
+Saint Vincent And The Grenadines,Caribbean and Central America
+"Areas, Nes",Other
+Dominica,Caribbean and Central America
+Malta,Europe (EU)
+Guyana,South America
+Saint Lucia,Caribbean and Central America
+Solomon Isds,Oceania
+China,China
+Georgia,Central and Northern Asia
+Israel,Middle East and North Africa
+Belarus,Central and Northern Asia
+Iraq,Middle East and North Africa
+Thailand,Southeast Asia
+Tajikistan,Central and Northern Asia
+Turkmenistan,Central and Northern Asia
+Afghanistan,South Asia
+Algeria,Middle East and North Africa
+Andorra,Europe (other)
+Azerbaijan,Central and Northern Asia
+Argentina,South America
+Australia,Oceania
+Bahamas,Caribbean and Central America
+Bangladesh,South Asia
+Armenia,Central and Northern Asia
+Barbados,Caribbean and Central America
+Bolivia,South America
+Bosnia Herzegovina,Europe (other)
+Brazil,South America
+Belize,Caribbean and Central America
+Burundi,Sub-Saharan Africa
+Cabo Verde,Sub-Saharan Africa
+Colombia,South America
+Costa Rica,Caribbean and Central America
+Cuba,Caribbean and Central America
+Cyprus,Europe (EU)
+Czech Rep.,Europe (other)
+Ecuador,South America
+El Salvador,Caribbean and Central America
+Equatorial Guinea,Sub-Saharan Africa
+Estonia,Europe (EU)
+French Polynesia,Oceania
+Djibouti,Sub-Saharan Africa
+Gabon,Sub-Saharan Africa
+State Of Palestine,Middle East and North Africa
+Guatemala,Caribbean and Central America
+Haiti,Caribbean and Central America
+Honduras,Caribbean and Central America
+Hungary,Europe (EU)
+Indonesia,Southeast Asia
+Jamaica,Caribbean and Central America
+Kenya,Sub-Saharan Africa
+Latvia,Europe (EU)
+Liberia,Sub-Saharan Africa
+Lithuania,Europe (EU)
+Madagascar,Sub-Saharan Africa
+Malawi,Sub-Saharan Africa
+Mauritius,Sub-Saharan Africa
+"Other Asia, Nes",East Asia excluding China
+Morocco,Middle East and North Africa
+Oman,Middle East and North Africa
+Nepal,South Asia
+Aruba,Caribbean and Central America
+New Zealand,Oceania
+Norway,Europe (other)
+Panama,Caribbean and Central America
+Paraguay,South America
+Peru,South America
+Poland,Europe (EU)
+Guinea-Bissau,Sub-Saharan Africa
+Qatar,Middle East and North Africa
+Sierra Leone,Sub-Saharan Africa
+Singapore,Southeast Asia
+Slovakia,Europe (EU)
+Vietnam,Southeast Asia
+Slovenia,Europe (other)
+Suriname,South America
+Syria,Middle East and North Africa
+Trinidad And Tobago,Caribbean and Central America
+Ukraine,Central and Northern Asia
+Tanzania,Sub-Saharan Africa
+Free Zones,Other
+Uruguay,South America
+Venezuela,South America
+Cambodia,Southeast Asia
+Eritrea,Sub-Saharan Africa
+Sudan,Sub-Saharan Africa
+Brunei Darussalam,Southeast Asia
+Iceland,Europe (other)
+Maldives,South Asia
+Antigua And Barbuda,Caribbean and Central America
+"China, Macao Sar",China
+South Sudan,Sub-Saharan Africa
+Antarctica,Other
+Myanmar,Southeast Asia
+Christmas Isds,Oceania
+Cook Isds,Oceania
+Fiji,Oceania
+Kiribati,Oceania
+Guam,Oceania
+"Korea, Dem. Rep.",East Asia excluding China
+Lao Pdr,Southeast Asia
+Mongolia,Central and Northern Asia
+Nauru,Oceania
+Vanuatu,Oceania
+Norfolk Isds,Oceania
+N. Mariana Isds,Oceania
+Micronesia,Oceania
+Marshall Isds,Oceania
+Palau,Oceania
+Papua New Guinea,Oceania
+Timor-Leste,Southeast Asia
+Fmr Sudan,Sub-Saharan Africa
+Tuvalu,Oceania
+Wallis And Futuna Isds,Oceania
+American Samoa,Oceania
+Saint Helena,Sub-Saharan Africa
+Bunkers,Other
+Bermuda,Caribbean and Central America
+Uzbekistan,Central and Northern Asia
+Greenland,North America
+Swaziland,Sub-Saharan Africa
+Grenada,Caribbean and Central America
+Central African Rep.,Sub-Saharan Africa
+Chad,Sub-Saharan Africa
+Mayotte,Sub-Saharan Africa
+Lesotho,Sub-Saharan Africa
+Faeroe Isds,Europe (other)
+Saint Pierre And Miquelon,North America
+French Southern Territories,Other
+Bonaire,Caribbean and Central America
+Anguilla,Caribbean and Central America
+San Marino,Europe (other)
+Holy See,Europe (other)
+Sint Maarten (Dutch Part),Caribbean and Central America
+"Other Africa, Nes",Sub-Saharan Africa
+Cayman Isds,Caribbean and Central America
+Turks And Caicos Isds,Caribbean and Central America
+Special Categories,Other
+Falkland Isds (Malvinas),South America
+United States Minor Outlying Isds,Oceania
+Somalia,Sub-Saharan Africa
+"Oceania, Nes",Oceania
+"Other Europe, Nes",Europe (other)
+Bhutan,South Asia
+Heard Island And Mcdonald Isds,Other
+Niue,Oceania
+Saint-Barthelemy,Caribbean and Central America
+Gibraltar,Europe (other)
+"Latin American Integration Association, Nes",South America
+Pitcairn,Oceania
+British Indian Ocean Territory,Oceania
+Tokelau,Oceania
+Bouvet Island,Oceania
+Cocos Isds,Oceania
+South Georgia And The South Sandwich Isds,Other
+Puerto Rico,North America
+U.S.,North America
+South Korea Republic Of,East Asia excluding China
+Curazao,Caribbean and Central America
+Free Zone Biocombustible Dl Caribbean,South America
+Free Zone Barranquilla,South America
+Hong Kong,China
+San Martin (Dutch),Caribbean and Central America
+Russia,Central and Northern Asia
+South Korea,East Asia excluding China
+Taiwan,East Asia excluding China
+Turks And Caicos Islands,Caribbean and Central America
+Cape Verde,Middle East and North Africa
+Dominica Island,Caribbean and Central America
+St. Vicent And The Grenadines,Caribbean and Central America
+St. Kitts And Nevis,Caribbean and Central America
+Congo Democratic Republic Of The,Sub-Saharan Africa
+Syrian Arab Republic,Middle East and North Africa
+Zfpe Colombina Del Cauca,South America
+Zfp Logistical Center Of Pacific Celpa,South America
+Zf Cencauca Parque Indl Caloto,South America
+Free Zone Cartagena,South America
+Free Zone Las Americas,South America
+Netherlands Antilles,Caribbean and Central America
+Czech Republic,Europe (EU)
+Congo,Sub-Saharan Africa
+Rep Of Georgia,Central and Northern Asia
+Unknown,UNKNOWN
+Gaza Strip (Palestine),Middle East and North Africa
+Canaries Islands,Middle East and North Africa
+Martinique,Caribbean and Central America
+Cayman Islands,Caribbean and Central America
+Brunei,Middle East and North Africa
+Virgin Islands (Uk),Caribbean and Central America
+Macedonia,Central and Northern Asia
+Monaco,Europe (other)
+Bosnia And Herzegovina,Europe (other)
+Channel Islands,Europe (EU)
+French Guyana,South America
+GAZA STRIP (PALESTINE),Middle East and North Africa
+CANARIES ISLANDS,Middle East and North Africa
+MARTINIQUE,Caribbean and Central America
+CAYMAN ISLANDS,Caribbean and Central America
+BRUNEI,Middle East and North Africa
+VIRGIN ISLANDS (UK),Caribbean and Central America
+MACEDONIA,Central and Northern Asia
+MONACO,Europe (other)
+BOSNIA AND HERZEGOVINA,Europe (other)
+CHANNEL ISLANDS,Europe (EU)
+FRENCH GUYANA,South America
+gaza strip (palestine),Middle East and North Africa
+canaries islands,Middle East and North Africa
+martinique,Caribbean and Central America
+cayman islands,Caribbean and Central America
+brunei,Middle East and North Africa
+virgin islands (uk),Caribbean and Central America
+macedonia,Central and Northern Asia
+monaco,Europe (other)
+bosnia and herzegovina,Europe (other)
+channel islands,Europe (EU)
+french guyana,South America
